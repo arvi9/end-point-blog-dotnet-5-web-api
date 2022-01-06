@@ -1,3 +1,4 @@
+https://www.endpointdev.com/blog/2021/07/dotnet-5-web-api/
 This is a demo application for a blog post about developing Web APIs with .NET 5 and ASP.NET Core.
 
 Requires:
